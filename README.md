@@ -60,7 +60,7 @@ The vehicle dataset comprises the following:
 
 ## Data Visualization
 
-[Single Modality Data Visualization](https://github.com/Tinker-Twins/AutoDRIVE-Hunter-SE-Dataset/blob/off-road-dataset/data_visualization/data_visualization_single.ipynb)
+[Single Modality Data Visualization](https://github.com/Tinker-Twins/AutoDRIVE-Hunter-SE-Dataset/blob/greensward-dataset/data_visualization/data_visualization_single.ipynb)
 
 <table>
 <thead>
@@ -85,7 +85,7 @@ The vehicle dataset comprises the following:
 </tbody>
 </table>
 
-[Collective Modality Data Visualization](https://github.com/Tinker-Twins/AutoDRIVE-Hunter-SE-Dataset/blob/off-road-dataset/data_visualization/data_visualization_collective.ipynb)
+[Collective Modality Data Visualization](https://github.com/Tinker-Twins/AutoDRIVE-Hunter-SE-Dataset/blob/greensward-dataset/data_visualization/data_visualization_collective.ipynb)
 
 <table>
 <thead>
