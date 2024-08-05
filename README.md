@@ -2,7 +2,9 @@
 
 ### Dynamics and Perception Dataset of "Hunter SE" Robot
 
-> **Note**: For accessing the on-road dataset, switch to the [`on-road-dataset`](https://github.com/Tinker-Twins/AutoDRIVE-Hunter-SE-Dataset/tree/on-road-dataset) branch of the repository.
+> [!NOTE]
+> - For accessing the on-road dataset, switch to the [`on-road-dataset`](https://github.com/Tinker-Twins/AutoDRIVE-Hunter-SE-Dataset/tree/on-road-dataset) branch of the repository.
+> - For accessing the greensward dataset, switch to the [`greensward-dataset`](https://github.com/Tinker-Twins/AutoDRIVE-Hunter-SE-Dataset/tree/greensward-dataset) branch of the repository.
 
 <table>
 <thead>
