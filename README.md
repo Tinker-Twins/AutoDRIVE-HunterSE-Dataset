@@ -6,7 +6,7 @@
 > - For accessing the on-road dataset, switch to the [`on-road-dataset`](https://github.com/Tinker-Twins/AutoDRIVE-Hunter-SE-Dataset/tree/on-road-dataset) branch of the repository.
 > - For accessing the off-road dataset, switch to the [`off-road-dataset`](https://github.com/Tinker-Twins/AutoDRIVE-Hunter-SE-Dataset/tree/off-road-dataset) branch of the repository.
 
-<table>
+<!-- <table>
 <thead>
   <tr>
     <th align="center"><img src="keyboard_10_hz/keyboard.gif"></th>
@@ -27,7 +27,7 @@
     <td align="center">Driving Rig Teleoperation</td>
   </tr>
 </tbody>
-</table>
+</table> -->
 
 This repository uses [AutoDRIVE Ecosystem](https://autodrive-ecosystem.github.io/) to capture data from a 1:5 scale Ackerman-steered vehicle called Hunter SE. The source repository for AutoDRIVE Ecosystem can be found [here](https://github.com/Tinker-Twins/AutoDRIVE).
 
