@@ -46,7 +46,7 @@ Developing digital twin of autonomy-enabled Hunter SE within AutoDRIVE Ecosystem
 
 **Environment Digital Twin:**
 ![Vehicle Digital Twin](digital_twins/Environment%20Digital%20Twin.png)
- Developing digital twin of an off-road patch at CU-ICAR within AutoDRIVE Ecosystem: (a) actual environment; (b) LiDAR point cloud data with surface normals; (c) 3D Poisson surface reconstruction; and (d) digital twin of the environment.
+ Developing digital twin of an off-road "Greensward" patch at CU-ICAR within AutoDRIVE Ecosystem: (a) actual environment; (b) LiDAR point cloud data with surface normals; (c) 3D Poisson surface reconstruction; and (d) digital twin of the environment.
 
 ## Vehicle Parameters:
 - Wheelbase (m): 0.55
