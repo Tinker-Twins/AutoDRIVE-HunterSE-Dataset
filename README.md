@@ -39,6 +39,15 @@ The vehicle dataset comprises the following:
 | -------- | --------- | -------- |	-------- | --------- | ---------- |	---- | ---- |	---- | ---- |	----- |	--- |	----- |	---- |	---- |	---- | ---- |	---- | ---- |
 | **UNIT** | yyyy_MM_dd_HH_mm_ss_fff | norm% | rad | count | count |	m | m |	m | rad |	rad |	rad |	m/s |	rad/s |	rad/s |	rad/s | m/s^2 |	m/s^2 | m/s^2 |
 
+## Digital Twins:
+**Vehicle Digital Twin:**
+![Vehicle Digital Twin](digital_twins/Vehicle%20Digital%20Twin.png)
+Developing digital twin of autonomy-enabled Hunter SE within AutoDRIVE Ecosystem: (a) physical twin of the vehicle; (b) vehicle characterization experiments; (c) simulation models for vehicle dynamics, sensor characteristics, and actuator responses; and (d) digital twin of the vehicle.
+
+**Environment Digital Twin:**
+![Vehicle Digital Twin](digital_twins/Environment%20Digital%20Twin.png)
+ Developing digital twin of an off-road patch at CU-ICAR within AutoDRIVE Ecosystem: (a) actual environment; (b) LiDAR point cloud data with surface normals; (c) 3D Poisson surface reconstruction; and (d) digital twin of the environment.
+
 ## Vehicle Parameters:
 - Wheelbase (m): 0.55
 - Track width (m): 0.52
